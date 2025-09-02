@@ -18,7 +18,6 @@ del producto. Luego, muestra el total a pagar.
 */
 
 public class Ejercicio9 {
-    static double precioBase; 
     
    public static void main(String[] args) {
         double peso, precio, costoEnvio;

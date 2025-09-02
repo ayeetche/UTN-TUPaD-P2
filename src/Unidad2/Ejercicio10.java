@@ -13,7 +13,6 @@ cantidad recibida, y muestra el stock actualizado.
 */
 
 public class Ejercicio10 {
-    static double precioBase; 
     
    public static void main(String[] args) {
         int stock, cantidadVendida, cantidadRecibida;
